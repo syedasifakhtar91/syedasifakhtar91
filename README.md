@@ -93,7 +93,5 @@ AI-powered shopping assistant with intelligent product recommendations.
 
 ---
 
-💡 *Building intelligent applications with AI, Full Stack Development and Cloud Technologies.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=syedasifakhtar91&label=Profile%20Views&color=0e75b6&style=flat)
+💡 *Passionate about building real-world AI solutions and continuously learning new technologies.*
 
