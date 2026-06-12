@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Syed Asif Akhtar 👋</h1>
 
 <p align="center">
-🚀 GenAI Engineer | Full Stack Developer | AWS Enthusiast
+GenAI Engineer | Full Stack Developer | AWS Enthusiast
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@ Building AI-powered applications with Generative AI, Full Stack Development and 
 
 
 ---
+
 
 ## 👨‍💻 About Me
 
