@@ -89,3 +89,11 @@ AI-powered shopping assistant with intelligent product recommendations.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedasifakhtar/)
+
+
+---
+
+💡 *Building intelligent applications with AI, Full Stack Development and Cloud Technologies.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedasifakhtar91&label=Profile%20Views&color=0e75b6&style=flat)
+
