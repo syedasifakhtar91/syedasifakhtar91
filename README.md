@@ -88,7 +88,14 @@ AI-powered shopping assistant with intelligent product recommendations.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedasifakhtar/)
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/syedasifakhtar/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 
 ---
