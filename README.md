@@ -70,12 +70,7 @@ LLM-powered HR management assistant for candidate screening and employee support
 AI-powered shopping assistant with intelligent product recommendations.
 
 ---
-
-## 📫 Connect With Me
-
-- LinkedIn:https://www.linkedin.com/in/syedasifakhtar/
   
-
 ---
 
 ⭐ Building scalable applications and solving real-world problems through technology.
@@ -88,3 +83,15 @@ AI-powered shopping assistant with intelligent product recommendations.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedasifakhtar91&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasifakhtar91&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Activity Graph
+
+[![Syed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedasifakhtar91&theme=tokyo-night)](https://github.com/syedasifakhtar91)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syedasifakhtar/)
