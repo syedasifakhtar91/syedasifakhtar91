@@ -47,7 +47,6 @@ Building AI-powered applications with Generative AI, Full Stack Development and 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge)
 ![LLM Applications](https://img.shields.io/badge/LLM_Applications-2196F3?style=for-the-badge)
 
 ### Cloud & Tools
