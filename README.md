@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Syed Asif Akhtar 👋
 
-<!--
-**syedasifakhtar91/syedasifakhtar91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 GenAI Engineer | Full Stack Developer | AWS Enthusiast
 
-Here are some ideas to get you started:
+Building AI-powered applications using Generative AI, Full Stack Development and Cloud Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineer
+- 🤖 Interested in Generative AI and Intelligent Systems
+- 💻 Passionate about Software Development and Cloud Technologies
+- 🚀 Building real-world AI-powered applications
+- 🌱 Continuously exploring new technologies and engineering practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • JavaScript • SQL
+
+### Frontend
+React.js • HTML • CSS
+
+### Backend
+Node.js • Express.js
+
+### AI & Data
+LangChain • RAG • Vector Databases • Prompt Engineering • LLM Applications
+
+### Cloud & Tools
+AWS • Git • GitHub 
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Real Estate Research Tool
+AI-powered property research tool using LangChain, RAG and Vector Search.
+
+### 🤖 Mcp Powered HR Management Assistant
+LLM-powered HR management assistant for candidate screening and employee support.
+
+### 🛒 E-Commerce Chatbot
+AI-powered shopping assistant with intelligent product recommendations.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/syedasifakhtar/
+  
+
+---
+
+⭐ Building scalable applications and solving real-world problems through technology.
