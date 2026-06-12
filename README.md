@@ -1,8 +1,8 @@
 # Hi, I'm Syed Asif Akhtar 👋
 
-                          ### 🚀 GenAI Engineer | Full Stack Developer | AWS Enthusiast
+### 🚀 GenAI Engineer | Full Stack Developer | AWS Enthusiast
 
-            Building AI-powered applications using Generative AI, Full Stack Development and Cloud Technologies.
+Building AI-powered applications using Generative AI, Full Stack Development and Cloud Technologies.
 
 ---
 
