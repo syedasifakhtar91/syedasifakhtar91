@@ -14,6 +14,7 @@ Building AI-powered applications with Generative AI, Full Stack Development and 
 
 ## 👨‍💻 About Me
 
+
 - 🎓 Software Developer
 - 🤖 Interested in Generative AI and Intelligent Systems
 - 💻 Passionate about Software Development and Cloud Technologies
