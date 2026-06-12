@@ -70,12 +70,6 @@ LLM-powered HR management assistant for candidate screening and employee support
 AI-powered shopping assistant with intelligent product recommendations.
 
 ---
-  
----
-
-⭐ Building scalable applications and solving real-world problems through technology.
-
----
 
 ## 📊 GitHub Stats
 
