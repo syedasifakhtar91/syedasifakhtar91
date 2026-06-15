@@ -87,22 +87,21 @@ AI-powered shopping assistant with intelligent product recommendations.
 
 ## 🌐 Connect With Me
 
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/syedasifakhtar/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/syedasifakhtar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/https://leetcode.com/u/Syedasif91/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:syedasifakhtar1312@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
-
-
----
-
-
-<p align="center">
-  💡 <b>"Passionate about building real-world AI solutions and continuously learning new technologies."</b>
-</p>
-
-
 
