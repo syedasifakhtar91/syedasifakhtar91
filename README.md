@@ -87,15 +87,13 @@ AI-powered shopping assistant with intelligent product recommendations.
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/syedasifakhtar/">
+<a href="https://www.linkedin.com/in/syedasifakhtar/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/https://leetcode.com/u/Syedasif91/">
+<a href="https://leetcode.com/u/Syedasif91/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
@@ -104,4 +102,3 @@ AI-powered shopping assistant with intelligent product recommendations.
 </a>
 
 </p>
-
