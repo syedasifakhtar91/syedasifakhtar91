@@ -102,3 +102,9 @@ AI-powered shopping assistant with intelligent product recommendations.
 </a>
 
 </p>
+
+---
+
+<p align="center">
+💡 <b>"Passionate about building real-world AI solutions and continuously learning new technologies."</b>
+</p>
