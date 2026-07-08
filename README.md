@@ -73,8 +73,8 @@ AI-powered shopping assistant with intelligent product recommendations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedasifakhtar91&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasifakhtar91&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedasifakhtar91&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedasifakhtar91&layout=compact&theme=tokyonight" />
 </p>
 
 ---
